@@ -2,11 +2,11 @@
  * @Author: luckin 1832114807@qq.com
  * @Date: 2023-10-30 08:15:25
  * @LastEditors: luckin 1832114807@qq.com
- * @LastEditTime: 2023-11-01 10:20:48
+ * @LastEditTime: 2023-11-01 10:59:14
  * @FilePath: \100\src\pages\000.vue
  * @Description: 
  * 
- * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved. 
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reservedd. 
 -->
 <template lang='pug'>
 paper
