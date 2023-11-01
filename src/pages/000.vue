@@ -1,3 +1,13 @@
+<!--
+ * @Author: luckin 1832114807@qq.com
+ * @Date: 2023-10-30 08:15:25
+ * @LastEditors: luckin 1832114807@qq.com
+ * @LastEditTime: 2023-11-01 10:20:48
+ * @FilePath: \100\src\pages\000.vue
+ * @Description: 
+ * 
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved. 
+-->
 <template lang='pug'>
 paper
   .box.overflow-hidden.relative.frame(
@@ -27,6 +37,7 @@ const count = ref(1)
 
 const url = computed(() => `/${count.value.toString().padStart(3, '0')}`)
 const src = computed(() => `${url.value}?hideFrame=true`)
+const test=()=>{}
 
 const next = () => {
   count.value = (count.value + 1) % (works.length + 1)
