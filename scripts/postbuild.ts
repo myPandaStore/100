@@ -1,3 +1,13 @@
+/*
+ * @Author: luckin 1832114807@qq.com
+ * @Date: 2023-10-30 08:15:25
+ * @LastEditors: luckin 1832114807@qq.com
+ * @LastEditTime: 2023-10-30 09:56:15
+ * @FilePath: \100\scripts\postbuild.ts
+ * @Description: 
+ * 
+ * Copyright (c) 2023 by ${git_name_email}, All Rights Reserved. 
+ */
 import fs from 'fs-extra'
 import cheerio from 'cheerio'
 import { works } from '../src/works'
